@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "firstName": "lamine",
+    "lastName": "diop",
+    "avatar": "https://www.jing.fm/clipimg/full/398-3981675_avatar-for-login-form.png",
+    "password": "passer",
+    "sexe": "H",
+    "address": "popenguine",
+    "phone": "777770404",
+    "is_deleted": true,
+    "codeUser": "e7247759c1633c0f9f1485f3690294a9"
+  },
+  {
+    "id": 2,
+    "firstName": "amy",
+    "lastName": "diop",
+    "avatar": "avatar1.jpg",
+    "password": "passer1",
+    "sexe": "F",
+    "address": "thies",
+    "phone": "774534545",
+    "is_deleted": false,
+    "codeUser": "e7247759c1633c0f9f1485f3690294a9"
+  },
+  {
+    "id": 3,
+    "firstName": "sidy",
+    "lastName": "fall",
+    "avatar": "avatar2.png",
+    "sexe": "h",
+    "address": "mbour",
+    "phone": "778765656",
+    "is_deleted": false,
+    "codeUser": "8357130dfb594e9c1047cbbe898d41ea"
+  },
+  {
+    "id": 4,
+    "firstName": "rama",
+    "lastName": "sall",
+    "avatar": "avatar1.jpg",
+    "sexe": "f",
+    "address": "pout",
+    "phone": "761234334",
+    "is_deleted": false,
+    "codeUser": "e04f28cc33cb20274dd3ff44e600a923"
+  }
+]
